@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BarberShop</string>
+
+    <string name="login_barber">Barbeiro</string>
+    <string name="login_client">Cliente</string>
+
+    <string name="barber_login">Barbeiro</string>
+    <string name="barber_password">Senha</string>
+    <string name="barber_enter">Entrar</string>
+</resources>
